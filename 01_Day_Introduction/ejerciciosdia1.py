@@ -57,5 +57,5 @@ print(type(myDict))
 x = ((2 - 3) ** 2)
 y = ((10 - 8) ** 2)
 xy = x + y
-dE = maht.sqrt(xy)
+dE = math.sqrt(xy)
 print(dE)
